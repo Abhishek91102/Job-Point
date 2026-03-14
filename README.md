@@ -1,3 +1,3 @@
 extensoin backend
 
-for job apply
+for job apply using ai
